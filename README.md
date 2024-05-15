@@ -3,7 +3,7 @@
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=coding%20languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square)
 ![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=36465D&logoColor=AAA&style=flat-square)
